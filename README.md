@@ -14,4 +14,4 @@
 
 ## Live
 
-`https://kanban-mercor-kappa.vercel.app/`
+https://kanban-mercor-kappa.vercel.app/
